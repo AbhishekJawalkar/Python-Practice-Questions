@@ -1,4 +1,4 @@
-# Printing Hello World 
+# Printing Hello World
 
 # INPUT
 print("Hello World")
